@@ -104,6 +104,7 @@ Port 22: South Sound Hackers
 \end_inset
 
 .
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1514,14 +1515,23 @@ Advance for Expenses.
  Expenses incurred in defending a civil or criminal action, suit or proceeding
  may be paid by the corporation in advance of the final disposition of such
  action, suit or proceeding, as authorized by the board in the specific
- case, upon receipt of (I) a written affirmation from the director, officer,
- employe, or agent of their food faith belief that they are entitled to
- indemnification as authorized in this article, and (II) an undertaking
- by or on behalf of the director, officer, employee, or agent to repay in
- such amount, unless it shall ultimately be determined they are entitled
- to be indemnified by the corporation in these bylaws.
+ case, upon receipt of 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+a written affirmation from the director, officer, employe, or agent of their
+ food faith belief that they are entitled to indemnification as authorized
+ in this article, and 
+\end_layout
+
+\begin_layout Itemize
+an undertaking by or on behalf of the director, officer, employee, or agent
+ to repay in such amount, unless it shall ultimately be determined they
+ are entitled to be indemnified by the corporation in these bylaws.
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 Indemnification of Officers, Agents, and Employees.
  An officer of the corporation who is not a director is entitled to mandatory
@@ -1644,7 +1654,7 @@ Although adherence and compliance with the US Department of the Treasury's
 \begin_inset Quotes eld
 \end_inset
 
-Voluntary Best Practive for US.
+Voluntary Best Practice for US.
  Based Charities
 \begin_inset Quotes erd
 \end_inset
