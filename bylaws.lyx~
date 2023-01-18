@@ -1,0 +1,2287 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Name
+\end_layout
+
+\begin_layout Subsection
+Name
+\end_layout
+
+\begin_layout Standard
+The name of this corporation shall be: 
+\begin_inset Quotes eld
+\end_inset
+
+Port 22: South Sound Hackers
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+The business of the corporation may be conducted as 
+\begin_inset Quotes eld
+\end_inset
+
+Port 22: South Sound Hackers
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+South Sound Hackers
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Port 22
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Port 22: SSH
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Purposes and Legal Powers
+\end_layout
+
+\begin_layout Subsection
+Purpose
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+This section is copied verbatim from Noisebridge, I think it's well written
+ and perfectly states what we aim to achieve - Josh
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The purpose of this corporation is to promote and encourage technical, scientifi
+c, and artistic skills through individual projects, social collaboration,
+ and education.
+ Also in the context of these purposes, the corporation shall engage in
+ scientific, charitable and educational activities within the meaning of
+ Section 501(c)(3) of the Internal Revenue Code, including but not limited
+ to:
+\end_layout
+
+\begin_layout Enumerate
+Through talks, classes, workshops, collaborative projects, and other activities,
+ to encourage research, knowledge exchange, learning, and mentoring in a
+ safe, clean space.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Provide educational spaces for teaching practical skills and theory of technolog
+y, science, and art.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Provide work space, storage, and other resources for projects related to
+ art, science, and technology that will benefit the individual members'
+ personal growth in their fields of interest, encouraging the individual
+ members to share their projects and knowledge for the betterment of society
+ through art, science and technology.
+ 
+\end_layout
+
+\begin_layout Enumerate
+To create, learn, and teach, individually and as a group, inviting members
+ of the community in the San Francisco area and the world.
+ 
+\end_layout
+
+\begin_layout Enumerate
+To develop, support the development of, and provide resources for the developmen
+t of free and open source software and hardware for the benefit of society.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Collaboration across disciplines for the benefit of cultural, charitable,
+ and scientific causes.
+\end_layout
+
+\begin_layout Enumerate
+To foster, by all legal means, the common purposes of its participants.
+ 
+\end_layout
+
+\begin_layout Enumerate
+To conduct or engage in all lawful activities in furtherance of the stated
+ purposes or those incidental to them.
+\end_layout
+
+\begin_layout Subsection
+Powers
+\end_layout
+
+\begin_layout Standard
+The corporation shall have the power, directly or indirectly, alone or in
+ conjunction or cooperation with others, to do any and all lawful acts which
+ may be necessary or convenient to affect the charitable purposes, for which
+ the corporation is organized, and to aid or assist other organizations
+ or persons whose activities further accomplish, foster, or attain such
+ purposes.
+\end_layout
+
+\begin_layout Standard
+The Legal powers of the corporation may include, but not be limited to,
+ the acceptance of contributions from the public and private sectors, whether
+ financial or in-kind contributions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Subsubsection
+Nonprofit Status and Exempt Activities Limitation
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Membership
+\end_layout
+
+\begin_layout Subsection
+Classes of Members
+\end_layout
+
+\begin_layout Standard
+The corporation shall initially have one class of members.
+ Additional classes of members, the manner of election or appointment of
+ each class of members, and the qualifications and rights of each class
+ of members may be established by amendment to these Bylaws.
+ The corporation shall not have members meeting the definition of “members”
+ in RCW 24.03A.010(45).
+ Members shall not have the rights enumerated under the Washington Nonprofit
+ Corporation Act but instead maintain only the rights and obligations given
+ to them in the Articles and Bylaws of the organization.
+\end_layout
+
+\begin_layout Subsection
+Qualifications for Membership
+\end_layout
+
+\begin_layout Standard
+In order to qualify for membership, a member must be proposed for membership
+ by a current member in good standing.
+ Upon approval of a membership application by a member of the board and
+ on timely payment of such dues and fees as the board may fix from time
+ to time, a member will be instated.
+ A member may be appointed to membership by a vote of the Board.
+ Members may have such other qualifications as the Board may prescribe by
+ amendment to these Bylaws.
+\end_layout
+
+\begin_layout Subsection
+Annual Meeting
+\end_layout
+
+\begin_layout Standard
+The annual meeting of the Board shall be held the 5th day of November in
+ each year at a time established by the Board for the purposes of electing
+ directors and officers and transacting such business as may properly come
+ before the meeting.
+ If the day fixed for the annual meeting is a legal holiday at the place
+ of the meeting, the meeting shall be held on the next succeeding business
+ day.
+ If the annual meeting is not held on the date designated therefor, the
+ Board shall cause the meeting to be held as soon thereafter as may be convenien
+t.
+\end_layout
+
+\begin_layout Subsection
+Special Meetings
+\end_layout
+
+\begin_layout Standard
+The President or a majority of the Board may call special meetings of the
+ members for any purpose.
+\end_layout
+
+\begin_layout Subsection
+Place of Meetings
+\end_layout
+
+\begin_layout Standard
+All meetings of members shall be held at the principal office of the corporation
+ or at such other place within or without the State of Washington designated
+ by the President or a majority of the Board.
+\end_layout
+
+\begin_layout Subsection
+Notice of Meetings
+\end_layout
+
+\begin_layout Standard
+The President, the Secretary or the Board shall cause to be delivered to
+ each member entitled to notice of the meeting, either personally, by mail,
+ by fascimile transmission or by electronic transmission, not less than
+ ten nor more than fifty days before the meeting, written notice stating
+ the place, date and time of the meeting and, in the case of a special meeting,
+ the purpose or purposes for which the meeting is called.
+ If such notice is mailed, it shall be deemed delivered when deposited in
+ the official government mail properly addressed to the member at their
+ address as it appears on the records of the corporation with postage thereon
+ prepaid.
+ Notice provided in an electronic transmission is effective when it: 
+\end_layout
+
+\begin_layout Enumerate
+is electronically transmitted to an address, location, or system designated
+ by the recipient for that purpose, and is made pursuant to the consent
+ provided by the recipient; or 
+\end_layout
+
+\begin_layout Enumerate
+has been posted on an electronic network along with a notification in the
+ electronic network directed at the recipient, with failure of the notification
+ delivery only being possible by opting out via the recipient.
+\end_layout
+
+\begin_layout Subsection
+Waiver of Notice
+\end_layout
+
+\begin_layout Standard
+Whenever any notice is required to be given to any member under the provisions
+ of these Bylaws, the Articles of Incorporation or applicable Washington
+ law, a waiver thereof in writing, signed by the person or persons entitled
+ to such notice, whether before or after the time stated therein, shall
+ be deemed equivalent to the giving of such notice.
+\end_layout
+
+\begin_layout Subsection
+Meetings by Telephone
+\end_layout
+
+\begin_layout Standard
+Members of the corporation may participate in a meeting of members by means
+ of a conference telephone or similar electronic communications equipment
+ by means of which all persons participating in the meeting can hear each
+ other at the same time.
+ Participation by such means shall constitute presence in person at a meeting.
+ 
+\end_layout
+
+\begin_layout Subsection
+Members' Dues, Fees, and Assessments
+\end_layout
+
+\begin_layout Standard
+Each member must pay, within the time and on the conditions set by the board,
+ the dues, fees, and assessments in amounts to be fixed from time to time
+ by the board.
+ 
+\end_layout
+
+\begin_layout Subsection
+Members in Good Standing
+\end_layout
+
+\begin_layout Standard
+Members who have paid the required dues, fees, and assessments in accordance
+ with these bylaws and who are not suspended shall be members in good standing.
+ 
+\end_layout
+
+\begin_layout Subsection
+Termination of Membership
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Termination-of-Membership"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A membership shall terminate on occurrence of any of the following events:
+\end_layout
+
+\begin_layout Enumerate
+Resignation of the member; 
+\end_layout
+
+\begin_layout Enumerate
+Expiration of the period of membership.
+ unless the membership is renewed on the renewal terms fixed by the board;
+ 
+\end_layout
+
+\begin_layout Enumerate
+The member's failure to pay dues, fees, or assessments as set by the board
+ within 30 days after they are due and payable;
+\end_layout
+
+\begin_layout Enumerate
+Any event that renders the member ineligible for membership, or failure
+ to satisfy membership qualifications; or
+\end_layout
+
+\begin_layout Enumerate
+Termination of membership under 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Termination-or-Suspension"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ of these bylaws based on the good faith determination by the board, or
+ a committee or person authorized by the board to make such a determination,
+ that the member has failed in a material and serious degree to observe
+ the rules of conduct of the corporation, or has engaged in conduct materially
+ and seriously prejudicial to the corporation's purposes and interests.
+\end_layout
+
+\begin_layout Subsection
+Suspension of Membership
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Suspension-of-Membership"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A member may be suspended, under Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Termination-or-Suspension"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ of these bylaws, based on the good faith determination by the board, or
+ a committee or person authorized by the board to make such a determination,
+ that the member has failed in a material and serious degree to observe
+ the corporation's rules of conduct, or has engaged in conduct materially
+ and seriously prejudicial to the corporation's purposes and interests.
+ A person whose membership is suspended shall not be a member during the
+ period of suspension.
+\end_layout
+
+\begin_layout Subsection
+Termination or Suspension of Membership - Procedure
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Termination-or-Suspension"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If grounds appear to exist for suspending or terminating a member under
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Termination-of-Membership"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Suspension-of-Membership"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ of these bylaws, the following procedure shall be followed:
+\end_layout
+
+\begin_layout Enumerate
+The board shall give the member at least 15 days' prior notice of the proposed
+ suspension or termination and the reasons for the proposed suspension or
+ termination.
+ Notice shall be given by any method reasonably calculated to provide actual
+ notice.
+ Notice given by mail shall be sent by first-class or registered mail to
+ the member's last address as shown on the corporation's records.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The member shall be given an opportunity to be heard, either orally or in
+ writing, at least five days before the effective date of the proposed suspensio
+n or termination.
+ The hearing shall be held, or the written statement considered, by the
+ board or by a committee or person authorized by the board to determine
+ whether the suspension or termination should occur.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The board, committee, or person shall decide whether a member should be
+ suspended, expelled, or sanctioned in any way.
+ The decision of the board, committee, or person shall be final.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Any action challenging an expulsion, suspension, or termination of membership,
+ including a claim alleging defective notice, must be commenced within one
+ year after the date of the expulsion, suspension, or termination.
+\end_layout
+
+\begin_layout Subsection
+Non Transferability of Memberships
+\end_layout
+
+\begin_layout Standard
+No membership or right arising from membership shall be transferred.
+ All membership rights cease on the member's death or incapacity.
+ 
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Board of Directors
+\end_layout
+
+\begin_layout Subsubsection
+General Powers
+\end_layout
+
+\begin_layout Standard
+All corporate legal powers shall be excercised by or under the authority
+ of the board and the affairs of Port 22: South Sound Hackers shall be managed
+ under the direction of the board, except as otherwise provided by law.
+\end_layout
+
+\begin_layout Subsubsection
+Number
+\end_layout
+
+\begin_layout Standard
+The Board shall consist of not less than three nor more than 7 Directors,
+ the specific number to be set by resolution of the Board.
+ The number of Directors may be changed from time to time by amendment to
+ these Bylaws, provided that no decrease in the number shall have the effect
+ of shortening the term of any incumbent Director.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: The minimum number of board members can be less than three in the
+ state of Washington, but if the organization will have 501(c)(3) status
+ with the IRS, a minimum of three is required.
+ 
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Qualifications
+\end_layout
+
+\begin_layout Standard
+Directors shall be members of the corporation and must satisfy one of the
+ folllowing:
+\end_layout
+
+\begin_layout Enumerate
+Be a founding member
+\end_layout
+
+\begin_layout Enumerate
+Have been a member for 1 year or 20% of the organizations lifetime as calculated
+ when they began paying dues.
+ 
+\end_layout
+
+\begin_layout Standard
+Directors may have such other qualifications as the Board may prescribe
+ by amendment to these Bylaws.
+\end_layout
+
+\begin_layout Subsection
+Election and Cessation of Directors
+\end_layout
+
+\begin_layout Subsubsection
+Initial Directors
+\end_layout
+
+\begin_layout Standard
+The initial Directors named in the Articles of Incorporation shall serve
+ until the first annual meeting of the Board.
+\end_layout
+
+\begin_layout Subsubsection
+Successor Directors
+\end_layout
+
+\begin_layout Standard
+Successor Directors shall be elected at the annual meeting of the Board.
+ The election of Directors may be conducted by mail and/or by ballot in
+ such manner as the Board of Directors shall determine.
+\end_layout
+
+\begin_layout Subsubsection
+Term of Office
+\end_layout
+
+\begin_layout Standard
+Unless a Director dies, resigns, or is removed, they shall hold office for
+ a term of two years or until their successor is elected, whichever is later.
+ Terms of Directors shall be staggered to the extent possible so that a
+ maximum of half the number of directors will end their terms in any given
+ year.
+ Directors may serve terms in succession.
+ The term of office shall be considered to begin January 1 and end December
+ 31 of the next year in office, unless the term is extended until such time
+ as a successor has been elected.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: The term of directors can be any length you wish.
+ The most common are terms of two or three years.
+ Other sample language to add to this provision in the Bylaws: Directors
+ may serve [two] consecutive terms and may be eligible for re-election after
+ a twelve (12) month absence from the Board.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Qualification and Election of Directors
+\end_layout
+
+\begin_layout Standard
+In order to be eligible to serve as a director, the individual must be 18
+ years of age and an affiliate within affiliate classifications created
+ by the board.
+ Directors may be elected at any board meeting by the majority vote.
+ The election of directors to replace those who have fulfilled their term
+ of office shall take place at the annual meeting of directors as described
+ in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Annual-Meeting"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Vacancies
+\end_layout
+
+\begin_layout Standard
+The board of directors may fill vacancies, via the affirmative vote of a
+ majority of the remaining directors despite less than a quorum of directors
+ remain on the board, due to the expiration of a directors term of office,
+ resignation, death, or removal of a director or may appoint new directors
+ to fill a previously unfilled position, subject to the maximum number of
+ directors under these bylaws.
+ A Director who fills a vacancy shall serve for the balance of the term
+ of the director being replaced.
+\end_layout
+
+\begin_layout Subsubsection
+Unexpected Vacancies
+\end_layout
+
+\begin_layout Standard
+Vacancies due to resignation, death, or removal shall be filled by the board
+ members for the balance of the term of the director being replaced.
+\end_layout
+
+\begin_layout Subsubsection
+Resignation
+\end_layout
+
+\begin_layout Standard
+Any Director may resign at any time by delivering written notice to the
+ President or the Secretary at the registered office of the Corporation,
+ or by giving oral or written notice at any meeting of the Directors.
+ Any such resignation shall take effect at the time specified therein, or
+ if the time is not specified, upon delivery thereof and, unless otherwise
+ specified therein, the acceptance of such resignation shall not be necessary
+ to make it effective.
+\end_layout
+
+\begin_layout Subsubsection
+Removal
+\end_layout
+
+\begin_layout Standard
+A director may be removed by two-thirds vote of directors then in office,
+ if: 
+\end_layout
+
+\begin_layout Itemize
+At a meeting of the Board, one or more Directors may be removed from office,
+ with or without cause, by two-thirds of the votes cast by Directors then
+ in office.
+\end_layout
+
+\begin_layout Standard
+A director may be removed by confirmation of the President without a vote,
+ if:
+\end_layout
+
+\begin_layout Itemize
+The director is absent and unexcused from two or more board meetings in
+ a twelve month period.
+ The president is empowered to excuse directors from attendance for a reason
+ deemed adequate by the president.
+ The president shall not have the power to excuse themself from the board
+ meeting attendance and in that case, the secretary shall excuse the president.
+ If the secretary and the president are absent, the absence may be counted
+ as unexcused for both but not only one of the absentees by a two-thirds
+ vote of directors then in office.
+\end_layout
+
+\begin_layout Standard
+A director may be removed by confirmation of the Secretary without a vote,
+ if:
+\end_layout
+
+\begin_layout Itemize
+The director is the president and is absent and unexcused from two or more
+ board meetings in a twelve month period.
+ The secretary is empowered to excuse the president from attendance for
+ a reason deemed adequate by the secretary.
+ If the secretary and the president are absent, the absence may be counted
+ as unexcused for both but not only one of the absentees by a two-thirds
+ vote of directors then in office.
+\end_layout
+
+\begin_layout Subsection
+Board of Directors Meetings
+\end_layout
+
+\begin_layout Subsubsection
+Annual Meeting
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Annual-Meeting"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The annual meeting of the Board shall be held without notice immediately
+ following and at the same place as the annual meeting of members for the
+ purposes of electing officers and transacting such business as may properly
+ come before the meeting.
+\end_layout
+
+\begin_layout Subsubsection
+Regular Meetings
+\end_layout
+
+\begin_layout Standard
+By resolution, the Board may specify the date, time and place for the holding
+ of regular meetings without other notice than such resolution.
+\end_layout
+
+\begin_layout Subsubsection
+Special Meetings
+\end_layout
+
+\begin_layout Standard
+Special meetings of the Board or any committee designated and appointed
+ by the Board may be called by or at the written request of the President,
+ Treasurer, Secretary, or any two Directors, or, in the case of a committee
+ meeting, by the chairman of the committee.
+ The person or persons authorized to call special meetings may fix any place
+ either within or without the State of Washington as the place for holding
+ any special Board or committee meeting called by them.
+ A special meeting must be preceded by at least two days notice to each
+ director of the date, time, and place, but not the purpose, of the meeting.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: If you wish, you can add an additional officer needed to call a special
+ meeting.
+ The number of Directors required in addition to the President can be any
+ number.
+ For smaller boards, this number should be smaller; for larger boards, this
+ number should be larger.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Notice of Special Meetings
+\end_layout
+
+\begin_layout Standard
+Notice of special Board or committee meetings shall be given to a Director
+ in writing or by personal communication with the Director not less than
+ two days before the meeting.
+ Notices in writing may be delivered or mailed to the Director at their
+ address shown on the records of the Corporation or given by facsimile or
+ electronic transmission.
+ Neither the business to be transacted at, nor the purpose of any special
+ meeting need be specified in the notice of such meeting.
+ If notice is delivered by mail, the notice shall be deemed effective when
+ deposited in the official government mail properly addressed with postage
+ thereon prepaid.
+ Notice provided in an electronic transmission is effective when it is electroni
+cally transmitted to an address, location or system designated by the recipient
+ for that purpose.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: The period of time required to give notice before the meeting can
+ be less than ten days; five days and two days are common.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Remote Meetings
+\end_layout
+
+\begin_layout Standard
+Members of the Board or any committee designated by the Board may participate
+ in a meeting of such Board or committee by or through the use of, one or
+ more means of remote communication through which all of the directors may
+ simultaneously participate with each other during the meeting.
+ Participation by such means shall constitute presence in person at a meeting.
+\end_layout
+
+\begin_layout Subsubsection
+Place of Meetings
+\end_layout
+
+\begin_layout Standard
+All meetings shall be held at the principal office of the Corporation or
+ at such other place within or without the State of Washington designated
+ by the Board, by any persons entitled to call a meeting or by a waiver
+ of notice signed by all Directors.
+\end_layout
+
+\begin_layout Subsection
+Waiver of Notice
+\end_layout
+
+\begin_layout Subsubsection
+In Writing
+\end_layout
+
+\begin_layout Standard
+Whenever any notice is required to be given to any Director under the provisions
+ of these Bylaws, the Articles of Incorporation or applicable Washington
+ law, a waiver thereof in writing, signed by the person or persons entitled
+ to such notice, whether before or after the time stated therein, shall
+ be deemed equivalent to the giving of such notice.
+ Neither the business to be transacted at, nor the purpose of, any regular
+ or special meeting of the Board need be specified in the waiver of notice
+ of such meeting.
+\end_layout
+
+\begin_layout Subsubsection
+By Attendance
+\end_layout
+
+\begin_layout Standard
+The attendance of a Director at a meeting shall constitute a waiver of notice
+ of such meeting, except where a Director attends a meeting for the express
+\end_layout
+
+\begin_layout Standard
+purpose of objecting to the transaction of any business because the meeting
+ is not lawfully called or convened.
+\end_layout
+
+\begin_layout Subsection
+Manner of Acting
+\end_layout
+
+\begin_layout Subsubsection
+Quorum
+\end_layout
+
+\begin_layout Standard
+A majority of the number of Directors in office shall constitute a quorum
+ for the transaction of business at any Board meeting.
+ If a quorum is not present at a meeting, a majority of the Directors present
+ may adjourn the meeting from time to time without further notice.
+\end_layout
+
+\begin_layout Subsubsection
+Majority Vote
+\end_layout
+
+\begin_layout Standard
+The act of the majority of the Directors present at a meeting at which there
+ is a quorum shall be the act of the Board, unless the vote of a greater
+ number is required by these Bylaws, the Articles of Incorporation or applicable
+ Washington law.
+\end_layout
+
+\begin_layout Subsubsection
+Presumption of Assent
+\end_layout
+
+\begin_layout Standard
+A Director of the Corporation present at a Board meeting at which action
+ on any corporate matter is taken shall be presumed to have assented to
+ the action taken unless their dissent or abstention is entered in the minutes
+ of the meeting, or unless such Director files a written dissent or abstention
+ to such action with the person acting as secretary of the meeting before
+ the adjournment thereof, or forwards such dissent or abstention by registered
+ mail to the Secretary of the Corporation immediately after the adjournment
+ of the meeting.
+ Such right to dissent or abstain shall not apply to a Director who voted
+ in favor of such action.
+\end_layout
+
+\begin_layout Subsubsection
+Action by Board Without a Meeting
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Action-by-Board"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Any action which could be taken at a meeting of the Board may be taken without
+ a meeting if a written consent setting forth the action so taken is executed
+ by each of the Directors entitled to vote.
+ Such written consents may be executed in two or more counterparts, each
+ of which shall be deemed an original and all of which, taken together,
+ shall constitute one and the same document.
+ Any such written consent shall be inserted in the minute book as if it
+ were the minutes of a Board meeting.
+ For purposes of these Bylaws, “executed” means: 
+\end_layout
+
+\begin_layout Enumerate
+writing that is signed; or 
+\end_layout
+
+\begin_layout Enumerate
+an email transmission that is sent with sufficient information to determine
+ the sender’s identity.
+ Any such written consent shall be inserted in the minute book as if it
+ were the minutes of a Board meeting.
+\end_layout
+
+\begin_layout Standard
+For purposes of this Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Action-by-Board"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ only, "each of the Directors entitled to vote" does not include an "interested
+ director" who abstains in writing from providing consent, where:
+\end_layout
+
+\begin_layout Enumerate
+The Board has determined that:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The corporation is entering into the transaction for its own benefit; and
+\end_layout
+
+\begin_layout Enumerate
+The transaction is fair and reasonable to the corporation when it enters
+ into the transaction or the noninterested directors determine in good faith
+ after reasonable investigation that the corporation cannot obtain a more
+ advantageous arrangement with reasonable effort under the circumstances,
+ at or before execution of the written consent; and
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Such determination is included in the written consent or in other records
+ of the corporation.
+\end_layout
+
+\begin_layout Subsection
+Board and Advisory Committees
+\end_layout
+
+\begin_layout Subsubsection
+Board Committees
+\end_layout
+
+\begin_layout Standard
+The Board, by resolution adopted by a majority of the Directors then in
+ office, may designate and appoint one or more standing or temporary committees,
+ each of which shall consist of two or more Directors.
+ Such Board committees shall have and exercise the authority of the Directors
+ in the management of the Corporation, subject to such limitations as may
+ be prescribed by the Board; except that no committee shall have the authority
+ to: 
+\end_layout
+
+\begin_layout Enumerate
+amend, alter, or repeal these Bylaws; 
+\end_layout
+
+\begin_layout Enumerate
+elect, appoint, or remove any member of any other committee or any Director
+ or officer of the Corporation; 
+\end_layout
+
+\begin_layout Enumerate
+amend the Articles of Incorporation; 
+\end_layout
+
+\begin_layout Enumerate
+adopt a plan of merger or consolidation with another corporation; 
+\end_layout
+
+\begin_layout Enumerate
+authorize the sale, lease, or exchange of all or substantially all of the
+ property and assets of the Corporation not in the ordinary course of business;
+ 
+\end_layout
+
+\begin_layout Enumerate
+authorize the voluntary dissolution of the Corporation or revoke proceedings
+ therefor; 
+\end_layout
+
+\begin_layout Enumerate
+adopt a plan for the distribution of the assets of the Corporation; or 
+\end_layout
+
+\begin_layout Enumerate
+amend, alter, or repeal any resolution of the Board which by its terms provides
+ that it shall not be amended, altered or repealed by a committee.
+ The designation and appointment of any such committee and the delegation
+ thereto of authority shall not operate to relieve the Board or any individual
+ Director of any responsibility imposed upon it or them by law.
+\end_layout
+
+\begin_layout Subsubsection
+Advisory Committees
+\end_layout
+
+\begin_layout Standard
+The Board may designate and appoint one or more advisory committees, each
+ of which may consist of at least one Director and one or more other individuals
+ to give advice and counsel to the Board.
+ The Board shall establish the charge and tasks for the committee and appoint
+ its chair and members.
+\end_layout
+
+\begin_layout Subsubsection
+Quorum; Manner of Acting
+\end_layout
+
+\begin_layout Standard
+A majority of the number of members of any committee shall constitute a
+ quorum, and the act of a majority of the members of a committee present
+ at a meeting at which a quorum is present shall be the act of the committee.
+\end_layout
+
+\begin_layout Subsubsection
+Resignation
+\end_layout
+
+\begin_layout Standard
+Any member of any committee may resign at any time by delivering written
+ notice thereof to the President, the Secretary or the chairperson of such
+ committee, or by giving oral or written notice at any meeting of such committee.
+ Any such resignation shall take effect at the time specified therein, or
+ if the time is not specified, upon delivery thereof and, unless otherwise
+ specified therein, the acceptance of such resignation shall not be necessary
+ to make it effective.
+\end_layout
+
+\begin_layout Subsubsection
+Removal of Committee Member
+\end_layout
+
+\begin_layout Standard
+The Board, by resolution adopted by a majority of the Directors in office,
+ may remove from office any member of any committee elected or appointed
+ by it.
+\end_layout
+
+\begin_layout Subsection
+Compensation
+\end_layout
+
+\begin_layout Standard
+The Directors shall receive no compensation for their service as Directors.
+ The board may adopt policies providing for reasonable reimbursement of
+ directors for expenses incurred in conjunction with carrying out board
+ responsibilities, such as travel expenses to attend board meetings.
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Officers
+\end_layout
+
+\begin_layout Subsection
+Number and Qualifications
+\end_layout
+
+\begin_layout Standard
+The officers of the Corporation shall be a President, a Secretary and a
+ Treasurer, each of whom shall be elected by the Board.
+ Other officers and assistant officers may be elected or appointed by the
+ Board, such officers and assistant officers to hold office for such period,
+ have such authority and perform such duties as are provided in these Bylaws
+ or as may be provided by resolution of the Board.
+ Any officer may be assigned by the Board any additional title that the
+ Board deems appropriate.
+ Any two or more offices may be held by the same person, except the offices
+ of President and Secretary.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: The Washington Nonprofit Corporation Act no longer requires a Vice
+ President.
+ However, it can be a good idea to have one as a backup to the President.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Election and Term of Office
+\end_layout
+
+\begin_layout Standard
+The officers of the Corporation shall be elected each year by the Board
+ at the annual meeting of the Board.
+ Unless an officer dies, resigns, or is removed from office, he or she shall
+ hold office until the next annual meeting of the Board or until their successor
+ is elected.
+\end_layout
+
+\begin_layout Subsection
+Resignation
+\end_layout
+
+\begin_layout Standard
+Any officer may resign at any time by delivering written notice to the President
+, the Secretary or the Board, or by giving oral or written notice at any
+ meeting of the Board.
+ Any such resignation shall take effect at the time specified therein, or
+ if the time is not specified, upon delivery thereof and, unless otherwise
+ specified therein, the acceptance of such resignation shall not be necessary
+ to make it effective.
+\end_layout
+
+\begin_layout Subsection
+Removal
+\end_layout
+
+\begin_layout Standard
+Any officer or agent elected or appointed by the Board may be removed from
+ office by the Board whenever in its judgment the best interests of the
+ Corporation would be served thereby, but such removal shall be without
+ prejudice to the contract rights, if any, of the person so removed.
+\end_layout
+
+\begin_layout Subsection
+Vacancies
+\end_layout
+
+\begin_layout Standard
+A vacancy in any office created by the death, resignation, removal, disqualifica
+tion, creation of a new office or any other cause may be filled by the Board
+ for the unexpired portion of the term or for a new term established by
+ the Board.
+\end_layout
+
+\begin_layout Subsection
+President
+\end_layout
+
+\begin_layout Standard
+The President shall, subject to the Board’s control, supervise and control
+ all of the assets, business and affairs of the Corporation.
+ The President shall preside over meetings of the Board.
+ The President may sign deeds, mortgages, bonds, contracts, or other instruments
+, except when the signing and execution thereof have been expressly delegated
+ by the Board or by these Bylaws to some other officer or agent of the Corporati
+on or are required by law to be otherwise signed or
+\end_layout
+
+\begin_layout Standard
+executed by some other officer or in some other manner.
+ In general, the President shall perform all duties incident to the office
+ of President and such other duties as are assigned to the President by
+ the Board from time to time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Subsection
+Vice President
+\end_layout
+
+\begin_layout Plain Layout
+In the event of the death of the President or their inability to act, the
+ Vice President (or if there is more than one Vice President, the Vice President
+ who was designated by the Board as the successor to the President, or if
+ no Vice President is so designated, the Vice President whose name first
+ appears in the Board resolution electing officers) shall perform the duties
+ of the President, except as may be limited by resolution of the Board,
+ with all the powers of and subject to all the restrictions upon the President.
+ Vice Presidents shall have, to the extent authorized by the President or
+ the Board, the same powers as the President to sign deeds, mortgages, bonds,
+ contracts or other instruments.
+ Vice Presidents shall perform such other duties as from time to time may
+ be assigned to them by the President or the Board.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Secretary
+\end_layout
+
+\begin_layout Standard
+The Secretary shall: 
+\end_layout
+
+\begin_layout Enumerate
+keep or cause to be kept the minutes of meetings of the Board, and minutes
+ which may be maintained by committees of the Board; 
+\end_layout
+
+\begin_layout Enumerate
+see that all notices are duly given in accordance with the provisions of
+ these Bylaws or as required by law; 
+\end_layout
+
+\begin_layout Enumerate
+be custodian or ensure the safe custody of the corporate records of the
+ Corporation; 
+\end_layout
+
+\begin_layout Enumerate
+keep records of the post office and email address of each Director and each
+ officer; and 
+\end_layout
+
+\begin_layout Enumerate
+in general perform all duties incident to the office of Secretary and such
+ other duties as from time to time may be assigned to the Secretary by the
+ President or the Board.
+\end_layout
+
+\begin_layout Subsection
+Treasurer
+\end_layout
+
+\begin_layout Standard
+If requested by the Board, the Treasurer shall give a bond for the faithful
+ discharge of their duties in such amount and with such surety or sureties
+ as the Board may determine.
+ The Treasurer shall have charge and custody of and be responsible for oversight
+ of all funds and securities of the Corporation; receive and give receipts
+ for moneys due and payable to the Corporation from any source whatsoever,
+ and ensure the deposit all such moneys in the name of the Corporation in
+ banks, trust companies or other depositories selected in accordance with
+ the provisions of these Bylaws; provide financial reports to the Board
+ at its meetings and on request and in general perform all of the duties
+ incident to the
+\end_layout
+
+\begin_layout Standard
+office of Treasurer and such other duties as from time to time may be assigned
+ to them by the President or the Board
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Administrative Provisions
+\end_layout
+
+\begin_layout Subsection
+Contracts and Other Writings
+\end_layout
+
+\begin_layout Standard
+Except as otherwise provided by resolution or policy of the board, all contracts
+, deeds, leases, mortgages, grants, and other agreements of the corporation
+ shall be executed on its behalf by the treasurer or other persons to whom
+ the corporation has delegated authority to execute such documents in accordance
+ with policies approved by the board.
+\end_layout
+
+\begin_layout Subsection
+Deposits
+\end_layout
+
+\begin_layout Standard
+All funds of the corporation not otherwise employed shall be deposited from
+ time to time to the credit of the corporation in such banks, trust companies,
+ or other depository as the governing body or a designated committee may
+ select.
+\end_layout
+
+\begin_layout Subsection
+Loans
+\end_layout
+
+\begin_layout Standard
+No loans shall be contracted on behalf of the Corporation and no evidences
+ of indebtedness shall be issued in its name unless authorized by a resolution
+ of the Board.
+ Such authority may be general or confined to specific instances.
+\end_layout
+
+\begin_layout Subsection
+Loans or Extensions of Credit to Officers and Directors
+\end_layout
+
+\begin_layout Standard
+No loans shall be made and no credit shall be extended by the Corporation
+ to its officers or Directors.
+\end_layout
+
+\begin_layout Subsection
+Checks, Drafts, Etc.
+\end_layout
+
+\begin_layout Standard
+All checks, drafts or other orders for the payment of money, notes or other
+ evidences of indebtedness issued in the name of the corporation shall be
+ signed by such officer or officers, or agent or agents, of the Corporation
+ and in such manner as is from time to time determined by resolution of
+ the Board.
+\end_layout
+
+\begin_layout Subsection
+Rules of Procedure
+\end_layout
+
+\begin_layout Standard
+The rules of procedure at meetings of the Board and committees of the Board
+ shall be rules contained in Roberts’ Rules of Order on Parliamentary Procedure,
+ newly revised, so far as applicable and when not inconsistent with these
+ Bylaws, the Articles of Incorporation or any resolution of the Board.
+ 
+\end_layout
+
+\begin_layout Subsection
+Indemnification
+\end_layout
+
+\begin_layout Itemize
+Mandatory Indemnification.
+ The corporation shall indemnify a director or former director, who was
+ wholly successful, on the merits or otherwise, in the defense of any proceeding
+ to which they were a party because they are or were a directorof the corporatio
+n against reasonable expenses incurred by them in connection with the proceeding
+s.
+\end_layout
+
+\begin_layout Itemize
+Permissable Indemnification.
+ The corporation shall indemnify a director or former director made a party
+ to a proceeding because they are or were a director or of the corporation,
+ against liability incurred in the proceeding, if the determination to idemnify
+ them has been made in the manner prescribed by the law and payment has
+ been authorized in the manner prescribed by the law.
+\end_layout
+
+\begin_layout Itemize
+Advance for Expenses.
+ Expenses incurred in defending a civil or criminal action, suit or proceeding
+ may be paid by the corporation in advance of the final disposition of such
+ action, suit or proceeding, as authorized by the board in the specific
+ case, upon receipt of 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+a written affirmation from the director, officer, employe, or agent of their
+ food faith belief that they are entitled to indemnification as authorized
+ in this article, and 
+\end_layout
+
+\begin_layout Itemize
+an undertaking by or on behalf of the director, officer, employee, or agent
+ to repay in such amount, unless it shall ultimately be determined they
+ are entitled to be indemnified by the corporation in these bylaws.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Indemnification of Officers, Agents, and Employees.
+ An officer of the corporation who is not a director is entitled to mandatory
+ indemnification under this article to the same extent as a director.
+ The corporation may also indemnify and advance expenses to an employee
+ or agent of the corporation who is not a director, consistent with Washington
+ Law and public policy, provided that such indemnification, and the scope
+ of such indemnification, is set forth by the general or specific action
+ of the board or by contract.
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Miscellaneous
+\end_layout
+
+\begin_layout Subsection
+Books and Records
+\end_layout
+
+\begin_layout Standard
+The corporation shall keep at its principal or registered office copies
+ of its current Articles of Incorporation and Bylaws; correct and adequate
+ records of accounts and finances; minutes of the proceedings of its members
+ and Board, and any minutes which may be maintained by committees of the
+ Board; records of the name and address and class, if applicable of each
+ member and Director, and of the name and post office address of each officer;
+ and such other records as may be necessary or advisable.
+ All books and records of the corporation shall be open at any reasonable
+ time to inspection by any member of three months standing or to a representativ
+e of more than five percent of the membership.
+\end_layout
+
+\begin_layout Subsection
+Accounting Year
+\end_layout
+
+\begin_layout Standard
+The accounting year of the Corporation shall be the twelve months ending
+ 31st, December.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: A nonprofit corporation can choose any fiscal year, including a calendar
+ year.
+ This date should be a month and the last date of that month, such as December
+ 31.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Conflict of Interest
+\end_layout
+
+\begin_layout Standard
+The board shall adopt and periodically review a conflict of interest policy
+ to protect the corporations's interest when it is contemplating any transaction
+ or arrangement which may benefit any director, officer, employee, affiliate,
+ or member of a committee with board-elected powers.
+\end_layout
+
+\begin_layout Subsection
+Nondiscrimination Policy
+\end_layout
+
+\begin_layout Standard
+The officers, committee mebers, employees, and persons served by this corporatio
+n shall be selected entirely on a nondiscriminatory basis with respect to
+ age, sex, race, religion, national origin, chosen gender, and sexual orientatio
+n.
+\end_layout
+
+\begin_layout Standard
+It is the policy of Port 22: South Sound Hackers not to discriminate of
+ the basis of race, creed, ancestry, marital status, gender, sexual orientation,
+ age, physical disability, veteran's status, political service or affiliation,
+ color, religion, or national origin.
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Counter-Terrorism and due Diligence Policy
+\end_layout
+
+\begin_layout Standard
+In furtherance of its tax exemption by contributions to other organizations,
+ domestic or foreign, Port 22: South Sound Hackers shall stipulate how the
+ funds will be used and shall require the recipient to provide the corporation
+ with detailed records and financial proof of how the funds were utilized.
+\end_layout
+
+\begin_layout Standard
+Although adherence and compliance with the US Department of the Treasury's
+ publication the 
+\begin_inset Quotes eld
+\end_inset
+
+Voluntary Best Practice for US.
+ Based Charities
+\begin_inset Quotes erd
+\end_inset
+
+ is not mandatory, Port 22: South Sound Hackers willfully and voluntarily
+ recognizes and puts to practice these guidelines and suggestions to reduce,
+ develop, re-evaluate and strengthen a risk-based approach to guard against
+ the the threat of diversion of charitable funds or exploitation of charitable
+ activity by terrorist organizations and their support networks.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+This is so dog whistle-y.
+ Is there any way we can get rid of this shit risk-free?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers shall also comply and put into practice the
+ federal guidelines, suggestion, laws and limitations set forth by pre-existing
+ U.S.
+ legal requirements related to combating terrorist financing, which include,
+ but are not limited to, various sanctions programs administered by the
+ Office of Foreign Assets Control (OFAC) in regard to its foreing activities.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Again, can we shake this terrible precedent? 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Document Retention Policy
+\end_layout
+
+\begin_layout Subsection
+General Guidelines
+\end_layout
+
+\begin_layout Standard
+Records should not be kept if they are not needed for operatiton of the
+ corporation or required by law.
+\end_layout
+
+\begin_layout Standard
+Unnecessary records should be eliminated from the files.
+ 
+\end_layout
+
+\begin_layout Standard
+The corporation may establish retention or destruction policies or schedules
+ for specific categories of records in order to ensure legal compliance,
+ and also to accomplish other objectives, such as preserving intellectual
+ property and cost management.
+\end_layout
+
+\begin_layout Subsection
+Litigation
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers expects all officers, and employees to comply
+ fully with any published records retention or destruction policies and
+ schedules, provided that all officers, and employees should note the following
+ general exception to any stated destruction schedule:If you believe, or
+ the corporation informs you, that corporate records are relevant to litigation,
+ or potential litigation, then you must preserve those records until it
+ is determined that the records are no longer needed.
+ That exception supersedes any previously or subsequently established destructio
+n schedule for those records.
+\end_layout
+
+\begin_layout Subsection
+Document Categories
+\end_layout
+
+\begin_layout Enumerate
+Corporate Documents.
+ Corporate records include the corporation’s Articles of Incorporation,
+ By-Laws and IRS Form 1023 and Application for Exemption.
+ Corporate records should be retained permanently.
+ IRS regulations require that the Form 1023 be available for public inspection
+ upon request.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Tax Records.
+ Tax records include, but may not be limited to, documents concerning payroll,
+ expenses, proof of contributions made by donors, accounting procedures,
+ and other documents concerning the corporation’s revenues.
+ Tax records should be retained for at least seven years from the date of
+ filing the applicable return.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Employment Records/Personnel Records.
+ State and federal statutes require the corporation to keep certain recruitment,
+ employment and personnel information.
+ The corporation should also keep personnel files that reflect performance
+ reviews and any complaints brought against the corporation or individual
+ employees under applicable state and federal statutes.
+ The corporation should also keep in the employee's personnel file all final
+ memoranda and correspondence reflecting performance reviews and actions
+ taken by or against personnel.
+ Employment applications should be retained for three years.
+ Retirement and pension records should be kept permanently.
+ Other employment and personnel records should be retained for seven years.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Board and Board Committee Materials.
+ Meeting minutes should be retained in perpetuity in the corporation’s minute
+ book.
+ A clean copy of all other Board and Board Committee materials should be
+ kept for no less than three years by the corporation.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Press Releases/Public Filings.
+ The corporation should retain permanent copies of all press releases and
+ publicly filed documents under the theory that the corporation should have
+ its own copy to test the accuracy of any document a member of the public
+ can theoretically produce against the corporation.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Legal Files.
+ Legal counsel should be consulted to determine the retention period of
+ particular documents, but legal documents should generally be maintained
+ for a period of ten years.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Marketing and Sales Documents.
+ The corporation should keep final copies of marketing and sales documents
+ for the same period of time it keeps other corporate files, generally three
+ years.
+ An exception to the three-year policy may be sales invoices, contracts,
+ leases, licenses, and other legal documentation.
+ These documents should be kept for at least three years beyond the life
+ of the agreement.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Development/Intellectual Property and Trade Secrets.
+ Development documents are often subject to intellectual property protection
+ in their final form (e.g., patents and copyrights).
+ The documents detailing the development process are often also of value
+ to the corporation and are protected as a trade secret where the corporation:
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+derives independent economic value from the secrecy of the information;
+ and 
+\end_layout
+
+\begin_layout Enumerate
+has taken affirmative steps to keep the information confidential.
+ 
+\end_layout
+
+\begin_layout Standard
+The corporation should keep all documents designated as containing trade
+ secret information for at least the life of the trade secret.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Contracts.
+ Final, execution copies of all contracts entered into by the corporation
+ should be retained.
+ The corporation should retain copies of the final contracts for at least
+ three years beyond the life of the agreement, and longer in the case of
+ publicly filed contracts.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Correspondence.
+ Unless correspondence falls under another category listed elsewhere in
+ this policy, correspondence should generally be saved for two years.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Banking and Accounting.
+ Accounts payable ledgers and schedules should be kept for seven years.
+ Bank reconciliations, bank statements, deposit slips and checks (unless
+ for important payments and purchases) should be kept for three years.
+ Any inventories of products, materials, and supplies and any invoices should
+ be kept for seven years.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Insurance.
+ Expired insurance policies, insurance records, accident reports, claims,
+ etc.
+ should be kept permanently.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Audit Records.
+ External audit reports should be kept permanently.
+ Internal audit reports should be kept for three years.
+ 
+\end_layout
+
+\begin_layout Subsection
+Electronic Mail
+\end_layout
+
+\begin_layout Standard
+Electronic Mail shall be stored as either:
+\end_layout
+
+\begin_layout Enumerate
+printed in hard copy and kept in the appropriate file; or 
+\end_layout
+
+\begin_layout Enumerate
+downloaded to a computer file and kept electronically or on disk as a separate
+ file.
+ The retention period depends upon the subject matter of the e-mail, as
+ covered elsewhere in this policy.
+ 
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Transparency and Accountability Disclosure of Financial Information With
+ The General Public
+\end_layout
+
+\begin_layout Subsection
+Purpose
+\end_layout
+
+\begin_layout Standard
+By making full and accurate information about its mission, activities, finances,
+ and governance publicly available, Port 22: South Sound Hackers practices
+ and encourages transparency and accountability to the general public.
+ This policy will: 
+\end_layout
+
+\begin_layout Enumerate
+indicate which documents and materials produced by the corporation are presumpti
+vely open to staff and/or the public 
+\end_layout
+
+\begin_layout Enumerate
+indicate which documents and materials produced by the corporation are presumpti
+vely closed to staff and/or the public 
+\end_layout
+
+\begin_layout Enumerate
+specify the procedures whereby the open/closed status of documents and materials
+ can be altered.
+ The details of this policy are as follow: 
+\end_layout
+
+\begin_layout Subsection
+Financial and IRS documents (The form 1023 and the form 990) 
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers shall provide its Internal Revenue forms 990,
+ 990-T, 1023 and 5227, bylaws, conflict of interest policy, and financial
+ statements to the general public for inspection free of charge.
+ 
+\end_layout
+
+\begin_layout Subsection
+Means and Conditions of Disclosure 
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers shall make “Widely Available” the aforementioned
+ documents on its internet website: Port 22: South Sound Hackers to be viewed
+ and inspected by the general public.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The documents shall be posted in a format that allows an individual using
+ the Internet to access, download, view and print them in a manner that
+ exactly reproduces the image of the original document filed with the IRS
+ (except information exempt from public disclosure requirements, such as
+ contributor lists).
+ 
+\end_layout
+
+\begin_layout Enumerate
+The website shall clearly inform readers that the document is available
+ and provide instructions for downloading it.
+\end_layout
+
+\begin_layout Enumerate
+Port 22: South Sound Hackers shall not charge a fee for downloading the
+ information.
+ Documents shall not be posted in a format that would require special computer
+ hardware or software (other than software readily available to the public
+ free of charge).
+\end_layout
+
+\begin_layout Enumerate
+Port 22: South Sound Hackers shall inform anyone requesting the information
+ where this information can be found, including the web address.
+ This information must be provided immediately for in-person requests and
+ within 7 days for mailed requests.
+\end_layout
+
+\begin_layout Subsection
+IRS Annual Information Returns (Form 990)
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers shall submit the Form 990 to its board of directors
+ prior to the filing of the Form 990.
+ While neither the approval of the Form 990 or a review of the 990 is required
+ under Federal law, the corporation’s Form 990 shall be submitted to each
+ member of the board of director’s via (hard copy or email) at least 10
+ days before the Form 990 is filed with the IRS.
+\end_layout
+
+\begin_layout Subsection
+Board 
+\end_layout
+
+\begin_layout Enumerate
+All board deliberations shall be open to the public except where the board
+ passes a motion to make any specific portion confidential.
+ 
+\end_layout
+
+\begin_layout Enumerate
+All board minutes shall be open to the public once accepted by the board,
+ except where the board passes a motion to make any specific portion confidentia
+l.
+ 
+\end_layout
+
+\begin_layout Enumerate
+All papers and materials considered by the board shall be open to the public
+ following the meeting at which they are considered, except where the board
+ passes a motion to make any specific paper or material confidential.
+ 
+\end_layout
+
+\begin_layout Subsection
+Staff Records
+\end_layout
+
+\begin_layout Enumerate
+All staff records shall be available for consultation by the staff member
+ concerned or by their legal representatives.
+ 
+\end_layout
+
+\begin_layout Enumerate
+No staff records shall be made available to any person outside the corporation
+ except the authorized governmental agencies.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Within the corporation, staff records shall be made available only to those
+ persons with managerial or personnel responsibilities for that staff member,
+ except that 
+\end_layout
+
+\begin_layout Enumerate
+Staff records shall be made available to the board when requested.
+ 
+\end_layout
+
+\begin_layout Subsection
+Donor Records
+\end_layout
+
+\begin_layout Enumerate
+All donor records shall be available for consultation by the members and
+ donors concerned or by their legal representatives.
+ 
+\end_layout
+
+\begin_layout Enumerate
+No donor records shall be made available to any other person outside the
+ corporation except the authorized governmental agencies.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Within the corporation, donor records shall be made available only to those
+ persons with managerial or personnel responsibilities for dealing with
+ those donors, except that ; 
+\end_layout
+
+\begin_layout Enumerate
+donor records shall be made available to the board when requested.
+ 
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Codes of Ethics and Whistle-Blower Policy
+\end_layout
+
+\begin_layout Subsection
+Purpose
+\end_layout
+
+\begin_layout Standard
+Port 22: South Sound Hackers requires and encourages directors, officers
+ and employees to observe and practice high standards of business and personal
+ ethics in the conduct of their duties and responsibilities.
+ The employees and representatives of the corporation must practice honesty
+ and integrity in fulfilling their responsibilities and comply with all
+ applicable laws and regulations.
+ It is the intent of Port 22: South Sound Hackers to adhere to all laws
+ and regulations that apply to the corporation and the underlying purpose
+ of this policy is to support the corporation’s goal of legal compliance.
+ The support of all corporate staff is necessary to achieving compliance
+ with various laws and regulations.
+ 
+\end_layout
+
+\begin_layout Subsection
+Reporting Violations 
+\end_layout
+
+\begin_layout Standard
+If any director, officer, staff or employee reasonably believes that some
+ policy, practice, or activity of Port 22: South Sound Hackers is in violation
+ of law, a written complaint must be filed by that person with the board
+ president.
+ 
+\end_layout
+
+\begin_layout Subsection
+Acting in Good Faith
+\end_layout
+
+\begin_layout Standard
+Anyone filing a complaint concerning a violation or suspected violation
+ must be acting in good faith and have reasonable grounds for believing
+ the information disclosed indicates a violation.
+ Any allegations that prove not to be substantiated and which prove to have
+ been made maliciously or knowingly to be false shall be subject to civil
+ and criminal review.
+\end_layout
+
+\begin_layout Subsection
+Retaliation
+\end_layout
+
+\begin_layout Standard
+Said person is protected from retaliation only if she/he brings the alleged
+ unlawful activity, policy, or practice to the attention of Port 22: South
+ Sound Hackers and provides the Port 22: South Sound Hackers with a reasonable
+ opportunity to investigate and correct the alleged unlawful activity.
+ The protection described below is only available to individuals that comply
+ with this requirement.
+ Port 22: South Sound Hackers shall not retaliate against any director,
+ officer, staff or employee who in good faith, has made a protest or raised
+ a complaint against some practice of Port 22: South Sound Hackers or of
+ another individual or entity with whom Port 22: South Sound Hackers has
+ a business relationship, on the basis of a reasonable belief that the practice
+ is in violation of law, or a clear mandate of public policy.
+ Port 22: South Sound Hackers shall not retaliate against any director,
+ officer, staff or employee who disclose or threaten to disclose to a supervisor
+ or a public body, any activity, policy, or practice of Port 22: South Sound
+ Hackers that the individual reasonably believes is in violation of a law,
+ or a rule, or regulation mandated pursuant to law or is in violation of
+ a clear mandate of public policy concerning the health, safety, welfare,
+ or protection of the environment.
+ 
+\end_layout
+
+\begin_layout Subsection
+Confidentiality
+\end_layout
+
+\begin_layout Standard
+Violations or suspected violations may be submitted on a confidential basis
+ by the complainant or may be submitted anonymously.
+ Reports of violations or suspected violations shall be kept confidential
+ to the extent possible, consistent with the need to conduct an adequate
+ investigation.
+ 
+\end_layout
+
+\begin_layout Subsection
+Handling of Reported Violations
+\end_layout
+
+\begin_layout Standard
+The board president shall notify the sender and acknowledge receipt of the
+ reported violation or suspected violation within five business days.
+ All reports shall be promptly investigated by the board and its appointed
+ committee and appropriate corrective action shall be taken if warranted
+ by the investigation.
+ This policy shall be made available to all directors, officers, staffs
+ or employees and they shall have the opportunity to ask questions about
+ the policy.
+ 
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Amendments of Bylaws & Articles of Incorporation
+\end_layout
+
+\begin_layout Standard
+These Bylaws may be altered, amended or repealed and new Bylaws may be adopted
+ by the vote of a majority of the number of Directors in office.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Note: This provision requires a vote of the Directors to amend the Bylaws.
+ Many organizations with voting members also require that members vote on
+ amending the Bylaws, but this is optional.
+ If you want to have members approve amendments, this can be added.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Article 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{section}
+\end_layout
+
+\end_inset
+
+, Certificate of Adoption of Bylaws
+\end_layout
+
+\begin_layout Standard
+The foregoing Bylaws were adopted by a majority of the Directors then in
+ office at a meeting of the Board of Directors held on [INSERT DAY, MONTH,
+ YEAR] at which a quorum was present and constitue a complete copy of the
+ bylaws of the corporation.
+\end_layout
+
+\begin_layout Standard
+___________________________________
+\end_layout
+
+\begin_layout Standard
+Secretary
+\end_layout
+
+\end_body
+\end_document
