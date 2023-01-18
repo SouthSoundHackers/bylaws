@@ -207,8 +207,18 @@ Provide work space, storage, and other resources for projects related to
 
 \begin_layout Enumerate
 To create, learn, and teach, individually and as a group, inviting members
- of the community in the San Francisco area and the world.
+ of the community in the Tacoma area and the world.
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+It still said San Francisco- we could also say Tacoma/Seattle area? 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -344,6 +354,16 @@ Place of Meetings
 All meetings of members shall be held at the principal office of the corporation
  or at such other place within or without the State of Washington designated
  by the President or a majority of the Board.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+This would cover an online meeting if needed, right? -Julie
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -351,7 +371,7 @@ Notice of Meetings
 \end_layout
 
 \begin_layout Standard
-The President, the Secretary or the Board shall cause to be delivered to
+The President, the Secretary, or the Board shall cause to be delivered to
  each member entitled to notice of the meeting, either personally, by mail,
  by fascimile transmission or by electronic transmission, not less than
  ten nor more than fifty days before the meeting, written notice stating
@@ -443,7 +463,7 @@ Resignation of the member;
 
 \begin_layout Enumerate
 Expiration of the period of membership.
- unless the membership is renewed on the renewal terms fixed by the board;
+ Unless the membership is renewed on the renewal terms fixed by the board;
  
 \end_layout
 
@@ -551,6 +571,17 @@ The board shall give the member at least 15 days' prior notice of the proposed
  Notice given by mail shall be sent by first-class or registered mail to
  the member's last address as shown on the corporation's records.
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Might there be situations where 15 days notice is unreasonable and even
+ dangerous to other members? -Julie
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -706,6 +737,11 @@ Note: The term of directors can be any length you wish.
  Other sample language to add to this provision in the Bylaws: Directors
  may serve [two] consecutive terms and may be eligible for re-election after
  a twelve (12) month absence from the Board.
+\end_layout
+
+\begin_layout Plain Layout
+-After giving this some thought I wonder if this is a question to ask for
+ opinions on at our next meeting? 
 \end_layout
 
 \end_inset
@@ -917,6 +953,13 @@ Note: The period of time required to give notice before the meeting can
  be less than ten days; five days and two days are common.
 \end_layout
 
+\begin_layout Plain Layout
+Two days should be fine.
+ Given the smallish board we're working with I think we can communicate
+ if something is urgent enough to meet that fast.
+ -Julie
+\end_layout
+
 \end_inset
 
 
@@ -932,6 +975,17 @@ Members of the Board or any committee designated by the Board may participate
  more means of remote communication through which all of the directors may
  simultaneously participate with each other during the meeting.
  Participation by such means shall constitute presence in person at a meeting.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Very glad to see this in here.
+ -Julie
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -971,10 +1025,7 @@ By Attendance
 \begin_layout Standard
 The attendance of a Director at a meeting shall constitute a waiver of notice
  of such meeting, except where a Director attends a meeting for the express
-\end_layout
-
-\begin_layout Standard
-purpose of objecting to the transaction of any business because the meeting
+ purpose of objecting to the transaction of any business because the meeting
  is not lawfully called or convened.
 \end_layout
 
@@ -1228,8 +1279,8 @@ Number and Qualifications
 \end_layout
 
 \begin_layout Standard
-The officers of the Corporation shall be a President, a Secretary and a
- Treasurer, each of whom shall be elected by the Board.
+The officers of the Corporation shall be a President, a Vice President,
+ a Secretary and a Treasurer, each of whom shall be elected by the Board.
  Other officers and assistant officers may be elected or appointed by the
  Board, such officers and assistant officers to hold office for such period,
  have such authority and perform such duties as are provided in these Bylaws
@@ -1245,6 +1296,12 @@ status open
 Note: The Washington Nonprofit Corporation Act no longer requires a Vice
  President.
  However, it can be a good idea to have one as a backup to the President.
+\end_layout
+
+\begin_layout Plain Layout
+Agreed.
+ Lets go ahead and add a VP just so things run smoothly going forward.
+ 
 \end_layout
 
 \end_inset
@@ -1311,25 +1368,18 @@ The President shall, subject to the Board’s control, supervise and control
  The President may sign deeds, mortgages, bonds, contracts, or other instruments
 , except when the signing and execution thereof have been expressly delegated
  by the Board or by these Bylaws to some other officer or agent of the Corporati
-on or are required by law to be otherwise signed or
-\end_layout
-
-\begin_layout Standard
-executed by some other officer or in some other manner.
+on or are required by law to be otherwise signed or executed by some other
+ officer or in some other manner.
  In general, the President shall perform all duties incident to the office
  of President and such other duties as are assigned to the President by
  the Board from time to time.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
 \begin_layout Subsection
 Vice President
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 In the event of the death of the President or their inability to act, the
  Vice President (or if there is more than one Vice President, the Vice President
  who was designated by the Board as the successor to the President, or if
@@ -1342,11 +1392,6 @@ In the event of the death of the President or their inability to act, the
  contracts or other instruments.
  Vice Presidents shall perform such other duties as from time to time may
  be assigned to them by the President or the Board.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -1398,12 +1443,8 @@ If requested by the Board, the Treasurer shall give a bond for the faithful
  banks, trust companies or other depositories selected in accordance with
  the provisions of these Bylaws; provide financial reports to the Board
  at its meetings and on request and in general perform all of the duties
- incident to the
-\end_layout
-
-\begin_layout Standard
-office of Treasurer and such other duties as from time to time may be assigned
- to them by the President or the Board
+ incident to the office of Treasurer and such other duties as from time
+ to time may be assigned to them by the President or the Board
 \end_layout
 
 \begin_layout Section
@@ -1496,9 +1537,9 @@ Indemnification
 Mandatory Indemnification.
  The corporation shall indemnify a director or former director, who was
  wholly successful, on the merits or otherwise, in the defense of any proceeding
- to which they were a party because they are or were a directorof the corporatio
-n against reasonable expenses incurred by them in connection with the proceeding
-s.
+ to which they were a party because they are or were a director of the corporati
+on against reasonable expenses incurred by them in connection with the proceedin
+gs.
 \end_layout
 
 \begin_layout Itemize
@@ -1520,8 +1561,8 @@ Advance for Expenses.
 
 \begin_deeper
 \begin_layout Itemize
-a written affirmation from the director, officer, employe, or agent of their
- food faith belief that they are entitled to indemnification as authorized
+a written affirmation from the director, officer, employee, or agent of
+ their good faith belief that they are entitled to indemnification as authorized
  in this article, and 
 \end_layout
 
@@ -1590,6 +1631,10 @@ Note: A nonprofit corporation can choose any fiscal year, including a calendar
  year.
  This date should be a month and the last date of that month, such as December
  31.
+\end_layout
+
+\begin_layout Plain Layout
+Sounds good to me -Julie
 \end_layout
 
 \end_inset
@@ -1670,7 +1715,15 @@ status open
 
 \begin_layout Plain Layout
 This is so dog whistle-y.
- Is there any way we can get rid of this shit risk-free?
+ Is there any way we can get rid of this shit risk-free? 
+\end_layout
+
+\begin_layout Plain Layout
+I don't really see us needing this until we go for 5013c status, at which
+ point we would need a lawyer anyway and they might be able to give us more
+ guidance.
+ I'm fine with removing the whole section if you are.
+ -Julie
 \end_layout
 
 \end_inset
@@ -1742,7 +1795,7 @@ Litigation
 Port 22: South Sound Hackers expects all officers, and employees to comply
  fully with any published records retention or destruction policies and
  schedules, provided that all officers, and employees should note the following
- general exception to any stated destruction schedule:If you believe, or
+ general exception to any stated destruction schedule: If you believe, or
  the corporation informs you, that corporate records are relevant to litigation,
  or potential litigation, then you must preserve those records until it
  is determined that the records are no longer needed.
@@ -2094,7 +2147,7 @@ No donor records shall be made available to any other person outside the
 \begin_layout Enumerate
 Within the corporation, donor records shall be made available only to those
  persons with managerial or personnel responsibilities for dealing with
- those donors, except that ; 
+ those donors, except that; 
 \end_layout
 
 \begin_layout Enumerate
@@ -2144,7 +2197,7 @@ Reporting Violations
 If any director, officer, staff or employee reasonably believes that some
  policy, practice, or activity of Port 22: South Sound Hackers is in violation
  of law, a written complaint must be filed by that person with the board
- president.
+ President.
  
 \end_layout
 
@@ -2206,7 +2259,7 @@ Handling of Reported Violations
 \end_layout
 
 \begin_layout Standard
-The board president shall notify the sender and acknowledge receipt of the
+The board President shall notify the sender and acknowledge receipt of the
  reported violation or suspected violation within five business days.
  All reports shall be promptly investigated by the board and its appointed
  committee and appropriate corrective action shall be taken if warranted
@@ -2246,6 +2299,15 @@ Note: This provision requires a vote of the Directors to amend the Bylaws.
  Many organizations with voting members also require that members vote on
  amending the Bylaws, but this is optional.
  If you want to have members approve amendments, this can be added.
+\end_layout
+
+\begin_layout Plain Layout
+I think that once we have members they should be able to vote on the addition
+ of bylaws, but I also see why we will have an easier time with just board
+ voting right out the gate.
+ We can easily, as a board, vote to extend voting rights to members once
+ the foundation is solid.
+ -Julie
 \end_layout
 
 \end_inset
