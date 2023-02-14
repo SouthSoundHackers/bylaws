@@ -294,7 +294,8 @@ Classes of Members
 \end_layout
 
 \begin_layout Standard
-The corporation shall initially have one class of members.
+The corporation shall initially have two classes of members: Full Members
+ and Community Members.
  Additional classes of members, the manner of election or appointment of
  each class of members, and the qualifications and rights of each class
  of members may be established by amendment to these Bylaws.
@@ -303,6 +304,54 @@ The corporation shall initially have one class of members.
  Members shall not have the rights enumerated under the Washington Nonprofit
  Corporation Act but instead maintain only the rights and obligations given
  to them in the Articles and Bylaws of the organization.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Full Members
+\end_layout
+
+\begin_layout Standard
+Full members will have access to the space during regular operating hours,
+ all equipment they’ve been properly trained on, and voting rights.
+ Full members also have 10 guest passes issued per month that allows community
+ members to join them during any regular operating hours with the understanding
+ that the Community Member is the responsibiliy of the Full Member while
+ they are their guest.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Community Members
+\end_layout
+
+\begin_layout Standard
+Community Members, or visitors to the space who are not Full Members, will
+ have access to the space in a limited capacity.
+ Community Members are welcome to participate in the following capacities:
+\end_layout
+
+\begin_layout Enumerate
+Attending or presenting events and workshops; 
+\end_layout
+
+\begin_layout Enumerate
+Visiting during hours designated for Community Members by vote of the board;
+ 
+\end_layout
+
+\begin_layout Enumerate
+Visiting the space with a Full Member as part of a limited amount of guest
+ passes per month.
+ 
+\end_layout
+
+\begin_layout Standard
+Community Members must sign in and agree to codes of conduct before using
+ the space.
+ Community members must also sign out when they leave.
+ Community Members are bound by the same standards of behavior as Full Members.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -310,12 +359,12 @@ Qualifications for Membership
 \end_layout
 
 \begin_layout Standard
-In order to qualify for membership, a member must be proposed for membership
- by a current member in good standing.
+In order to qualify for membership, a Full Member must be proposed for membershi
+p by a current Full Member in good standing.
  Upon approval of a membership application by a member of the board and
  on timely payment of such dues and fees as the board may fix from time
- to time, a member will be instated.
- A member may be appointed to membership by a vote of the Board.
+ to time, a Full Member will be instated.
+ A Full Member may be appointed to membership by a vote of the Board.
  Members may have such other qualifications as the Board may prescribe by
  amendment to these Bylaws.
 \end_layout
@@ -454,7 +503,9 @@ name "subsec:Termination-of-Membership"
 \end_layout
 
 \begin_layout Standard
-A membership shall terminate on occurrence of any of the following events:
+A membership, Full Membership and Community Membership, shall terminate
+ on occurrence of any of the following events that are applicable to their
+ status:
 \end_layout
 
 \begin_layout Enumerate
@@ -507,7 +558,8 @@ name "subsec:Suspension-of-Membership"
 \end_layout
 
 \begin_layout Standard
-A member may be suspended, under Section 
+A member, Full Membership and Community Membership, may be suspended, under
+ Section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Termination-or-Suspension"
@@ -582,6 +634,13 @@ Might there be situations where 15 days notice is unreasonable and even
 \end_inset
 
 
+\end_layout
+
+\begin_layout Enumerate
+The board may vote to terminate or suspend a member immediately if the member's
+ actions have caused harm to themselves, others, or the materials and propery
+ of South Sound Hackers, or the board has plausible reason to believe that
+ the person will cause harm.
 \end_layout
 
 \begin_layout Enumerate
@@ -975,17 +1034,6 @@ Members of the Board or any committee designated by the Board may participate
  more means of remote communication through which all of the directors may
  simultaneously participate with each other during the meeting.
  Participation by such means shall constitute presence in person at a meeting.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Very glad to see this in here.
- -Julie
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
@@ -1515,6 +1563,28 @@ All checks, drafts or other orders for the payment of money, notes or other
  signed by such officer or officers, or agent or agents, of the Corporation
  and in such manner as is from time to time determined by resolution of
  the Board.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Reimbursement of Funds
+\end_layout
+
+\end_inset
+
+New
+\end_layout
+
+\begin_layout Standard
+Full Members may be reimbursed funds spent on behalf of South Sound Hackers
+ with preapproval from a majority vote from the board.
+ Funds will only be approved that South Sound Hackers can pay in full at
+ the time the funds are requested.
+ These funds will be reimbursed by the Treasurer from existing funds.
+ 
 \end_layout
 
 \begin_layout Subsection
